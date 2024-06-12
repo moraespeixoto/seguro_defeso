@@ -1,0 +1,174 @@
+---
+references:
+- id: neto2021
+  author:
+  - family: Neto
+    given: Ari Gonçalves
+  - family: Amaral
+    given: Shirlena Campos de Souza
+  issued: 2021
+  key: 53EMLKUF
+  language: pt
+  libraryID: 7
+  providerKey: Zotero
+  source: Zotero
+  title: MULHERES NA PESCA E A LUTA POR RECONHECIMENTO
+  type: article-journal
+- id: mulheres2019
+  ISBN: 978-85-89479-53-0
+  issued: 2019-06-10
+  key: V2WE4JET
+  language: pt
+  libraryID: 7
+  providerKey: Zotero
+  publisher: Uenf / Eduenf
+  source: Câmara Brasileira do Livro ISBN
+  title: Mulheres na atividade pesqueira no Brasil
+  type: book
+- id: hellebrandt2019
+  author:
+  - family: Hellebrandt
+    given: Luceni
+  ISBN: 978-85-89479-53-0
+  issued: 2019-06-10
+  key: V2WE4JET
+  language: pt
+  libraryID: 7
+  number-of-pages: p. 265-278
+  providerKey: Zotero
+  publisher: Uenf / Eduenf
+  source: Câmara Brasileira do Livro ISBN
+  title: O QUE TORNA AS MULHERES INVISÍVEIS NA PESCA? REFLEXÕES A PARTIR
+    DE PESQUISA COM MULHERES DA COLÔNIA Z3
+  type: book
+- id: martins2016
+  accessed: "12:35:14"
+  author:
+  - family: Martins
+    given: Mary Lourdes Santana
+  - family: Alvim
+    given: Ronaldo Gomes
+  container-title: Boletim do Museu Paraense Emílio Goeldi. Ciências
+    Humanas
+  container-title-short: Bol. Mus. Para. Emílio Goeldi. Ciênc. hum.
+  DOI: 10.1590/1981.81222016000200003
+  ISSN: 1981-8122
+  issue: 2
+  issued: 2016-08
+  key: 2YQW4C8H
+  language: pt
+  libraryID: 7
+  page: 379-390
+  providerKey: Zotero
+  source: DOI.org (Crossref)
+  title: "Perspectivas do trabalho feminino na pesca artesanal:
+    particularidades da comunidade Ilha do Beto, Sergipe, Brasil"
+  title-short: Perspectivas do trabalho feminino na pesca artesanal
+  type: article-journal
+  URL: "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1981-81222016000200379&lng=pt&tlng=pt"
+  volume: 11
+- id: márciotimóteo2019
+  author:
+  - family: Márcio Timóteo
+    given: Geraldo
+  - dropping-particle: dos
+    family: Santos
+    given: Valdir Júnio
+  ISBN: 978-85-89479-53-0
+  issued: 2019-06-10
+  key: 99WGS6Q6
+  language: pt
+  libraryID: 7
+  number-of-pages: p.333
+  providerKey: Zotero
+  publisher: Uenf / Eduenf
+  source: Câmara Brasileira do Livro ISBN
+  title: Trabalho e relações de gênero na cadeia produtiva da pesca
+    artesanal na Bacia de Campos
+  type: book
+- id: huguenin2021
+  accessed: "14:39:44"
+  author:
+  - family: Huguenin
+    given: Fernanda Pacheco
+  - family: Martínez
+    given: Silvia Alicia
+  container-title: Direito Público
+  container-title-short: RDP
+  DOI: 10.11117/rdp.v18i97.5038
+  ISSN: 2236-1766, 1806-8200
+  issue: 97
+  issued: 2021-04-30
+  key: 5VW7REZT
+  language: pt
+  libraryID: 7
+  providerKey: Zotero
+  source: DOI.org (Crossref)
+  title: "Mulheres da Pesca:Invisibilidade e Discriminação Indireta no
+    Direito ao Seguro Desemprego"
+  title-short: Mulheres da Pesca
+  type: article-journal
+  URL: "https://www.portaldeperiodicos.idp.edu.br/direitopublico/article/view/5038"
+  volume: 18
+- id: furtado2004
+  accessed: "14:47:03"
+  author:
+  - family: Furtado
+    given: Celso
+  container-title: Brazilian Journal of Political Economy
+  container-title-short: Brazil. J. Polit. Econ.
+  DOI: 10.1590/0101-35172004-1639
+  ISSN: 1809-4538, 0101-3157
+  issue: 4
+  issued: 2004-12
+  key: 8WMINL79
+  language: pt
+  libraryID: 7
+  page: 483-486
+  providerKey: Zotero
+  rights: "http://creativecommons.org/licenses/by/4.0/"
+  source: DOI.org (Crossref)
+  title: Os Desafios da Nova Geração
+  type: article-journal
+  URL: "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-31572004000400483&tlng=pt"
+  volume: 24
+- id: biroli2016
+  accessed: "16:22:04"
+  author:
+  - family: Biroli
+    given: Flávia
+  container-title: Dados
+  container-title-short: Dados
+  DOI: 10.1590/00115258201690
+  ISSN: 0011-5258
+  issue: 3
+  issued: 2016-09
+  key: 6YBGLQ39
+  language: pt
+  libraryID: 7
+  page: 719-754
+  providerKey: Zotero
+  source: DOI.org (Crossref)
+  title: Divisão Sexual do Trabalho e Democracia
+  type: article-journal
+  URL: "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0011-52582016000300719&lng=pt&tlng=pt"
+  volume: 59
+- id: silveira2019
+  author:
+  - dropping-particle: da
+    family: Silveira
+    given: Cibele Dias
+  ISBN: 978-85-89479-53-0
+  issued: 2019-06-10
+  key: 4YD5QA2A
+  language: pt
+  libraryID: 7
+  number-of-pages: p.227-245
+  providerKey: Zotero
+  publisher: Uenf / Eduenf
+  source: Câmara Brasileira do Livro ISBN
+  title: "GÊNERO, CLASSE E TRABALHO PESQUEIRO: REFLEXÕES SOBRE
+    INTERSECCIONALIDADE E DESENVOLVIMENTO RURAL NA REGIÃO DE GOVERNADOR
+    CELSO RAMOS-SC"
+  type: book
+...
